@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndriaGvaramadze
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning program lang
-- 📫 How to reach me andria gvareamadze 
+- 📫 How to reach 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
